@@ -1,2 +1,3 @@
 # ObsidianOasis
-A land claiming plugin specifically designed for the Obsidian Oasis Minecraft server!
+
+A land claiming plugin designed specifically for the Obsidian Oasis Minecraft server!
